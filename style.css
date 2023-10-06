@@ -9,3 +9,11 @@ p { font-size: 30px;
     img { width: 300px;
     height: 300px;
 margin-left: 250px;}
+.cabecalho{
+    background-color:aliceblue ;
+    display: flex;
+}
+.volei3{
+    width: 120px;
+    height: 120px;
+}
